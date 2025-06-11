@@ -1,4 +1,4 @@
-#  What Happens When You Click www.google.com?
+#  What Happens When You Click www.google.com and press ENTER
 
 This document explains the technical steps involved when a user clicks on a URL like `www.google.com` in a web browser. It breaks down the process into understandable layers, showing the behind-the-scenes flow of how web pages are delivered to your screen.
 
